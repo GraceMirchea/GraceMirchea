@@ -1,5 +1,5 @@
 <a href="https://www.fethitekyaygil.com">
- <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
+ <img src = "[https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif)">
  </a>
 
 **About Me!**
