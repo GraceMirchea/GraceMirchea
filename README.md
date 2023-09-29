@@ -1,5 +1,5 @@
 <a href="https://www.fethitekyaygil.com">
- <img width="20%" height="auto" src = "https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+ <img width="60%" height="auto" src = "https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
  </a>
 
 **About Me!**
