@@ -12,7 +12,7 @@
 - 👨🏽‍💻 I am currently a Web Developer in Cusco municipality.
 - 🌱 I am currently developing Web projects.
 - 🤔 My interest lies in front-end web development, Data Science, Cybersecurity and Deep Learning.
-- 💬 Ask me about anything from [jhonatanrojasm1@gmail.com](mailto:jhonatanrojasm1@gmail.com), I love to answer!.
+- 💬 Ask me about anything from [jhonatanrojasm1@gmail.com](mailto:jhonatanrojasm1@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.programadorj.com)
 
 
