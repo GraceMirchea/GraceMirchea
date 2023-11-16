@@ -3,7 +3,7 @@
 <h4 align="center">I'm a freelance developer and systems engineer, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 <a href="https://www.programadorj.com">
 <img width="30%" height="auto%" src = "https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
-</a>
+</a>.
 </div>
 
 
